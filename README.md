@@ -1,1 +1,2 @@
 # sms_classification_project
+This project aims to classify SMS messages into different categories using machine learning techniques. The dataset consists of labeled SMS messages, and we will explore various natural language processing (NLP) techniques to preprocess the data. The classification models will be trained and evaluated to achieve high accuracy in predicting the category of each message. The project will be implemented in Python, using libraries such as scikit-learn, pandas, and NLTK
